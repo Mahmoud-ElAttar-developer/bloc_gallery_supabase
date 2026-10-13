@@ -20,7 +20,7 @@ class App extends StatelessWidget {
         title: 'photo_gallery',
         theme: ThemeData(primarySwatch: Colors.blue),
         debugShowCheckedModeBanner: false,
-        home: const HomePage(),
+        home: const PhotoGalleryView (),
       ), // MaterialApp
     ); // BlocProvider
   }
