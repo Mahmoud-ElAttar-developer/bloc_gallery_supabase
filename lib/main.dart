@@ -7,7 +7,7 @@ void main() async {
 
   // تهيئة مشروع سوبابيز بالبيانات والمفاتيح الخاصة بك
   await Supabase.initialize(
-    url: 'https://supabase.co', // رابط الـ URL الخاص بمشروعك
+    url: 'https://abvzdefxzaiwzwetmsuw.supabase.co',  // رابط الـ URL الخاص بمشروعك 👈
     publishableKey: 'sb_publishable_djvbfr_zrkFnFuquq8bZMHA_y3wt', // مفتاح الـ Anon Key الخاص بك
   );
 
